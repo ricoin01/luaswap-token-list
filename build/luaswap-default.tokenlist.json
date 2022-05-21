@@ -134,14 +134,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-      "name": "Wrapped Ether",
-      "address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 88,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
       "name": "Wrapped FTX Token",
       "address": "0x33fa3c0c714638f12339F85dae89c42042a2D9Af",
       "symbol": "FTT",
@@ -260,6 +252,22 @@
       "decimals": 18,
       "chainId": 88,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa/logo.png"
+     },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xAd30D0B4B1DB577c2089ff84d1424e5C153BA1D4",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+     },
+    {
+      "name": "AURICOIN",
+      "address": "0xD379AB8Cc4e02574853783BECf2C46BC00128658",
+      "symbol": "RIC",
+      "decimals": 8,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/tomochain/tokens/master/tokens/0xd379ab8cc4e02574853783becf2c46bc00128658.png"
     }
   ]
 }
