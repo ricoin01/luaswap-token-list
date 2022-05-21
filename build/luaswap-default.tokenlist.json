@@ -238,14 +238,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
-      "name": "Wrapped BTC",
-      "address": "0x503B2dDc059b81788FD1239561596614b27fAADE",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "chainId": 88,
-      "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x503B2dDc059b81788FD1239561596614b27fAADE.png"
-    },
-    {
       "name": "Wrapped TOMO",
       "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
       "symbol": "WTOMO",
@@ -270,12 +262,12 @@
       "logoURI": "https://raw.githubusercontent.com/tomochain/tokens/master/tokens/0xd379ab8cc4e02574853783becf2c46bc00128658.png"
      },
     {
-      "name": "BTC",
-      "address": "0xD379AB8Cc4e02574853783BECf2C46BC00128658",
-      "symbol": "BTC",
+      "name": "Wrapped BTC",
+      "address": "0xC6BF0c5e9Fecce67e22B5E7c1a042f4d4684b40b",
+      "symbol": "WBTC",
       "decimals": 18,
       "chainId": 88,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+      "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x503B2dDc059b81788FD1239561596614b27fAADE.png"
     }
   ]
 }
